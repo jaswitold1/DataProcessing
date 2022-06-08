@@ -1,7 +1,7 @@
 import "./styles/App.scss";
 
 function App() {
-  return <div style={{ display: "block" }} className='App'></div>;
+  return <div style={{ display: "conflict-reset-css" }} className='App'></div>;
 }
 
 export default App;
